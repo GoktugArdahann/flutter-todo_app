@@ -1,3 +1,3 @@
 # todo_app
 
-A new Flutter project.
+Flutter-based to-do application. Enjoy
